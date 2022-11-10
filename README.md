@@ -49,4 +49,4 @@ print(bs.h1)
 
 The output is as follows:
 
-"<h1>An Interesting Title</h1>"
+" An Interesting Title "
